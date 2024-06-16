@@ -1,0 +1,2 @@
+\\KFILESTUDENT01\StudentHome2\1\10750281\downloads\nasm-2.13.03-win64\nasm-2.13.03\nasm.exe -f win64 \\KFILESTUDENT01\StudentHome2\1\10750281\Projects\Assembly\Project\Project.asm -o \\KFILESTUDENT01\StudentHome2\1\10750281\Projects\Assembly\Project\Release\Project.obj
+\\KFILESTUDENT01\StudentHome2\1\10750281\downloads\Golink\GoLink.exe @\\KFILESTUDENT01\StudentHome2\1\10750281\Projects\Assembly\Project\linker_info.txt

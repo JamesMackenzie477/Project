@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+	<sourceFiles>
+		<filePath>Project.asm</filePath>
+	</sourceFiles>
+	<buildDirectory>\Build</buildDirectory>
+	<format>Win64</format>
+	<type>Console</type>
+	<entryPoint>_main</entryPoint>
+	<dependencies>
+		<module>msvcrt.dll</module>
+	</dependencies>
+</project>

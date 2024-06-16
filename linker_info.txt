@@ -1,0 +1,8 @@
+; link into a console application
+/console
+; define the entry point of the application
+/entry _main
+; define the object file to be linked
+\\KFILESTUDENT01\StudentHome2\1\10750281\Projects\Assembly\Project\Release\Project.obj
+; define executable dependencies
+MSVCRT.dll
